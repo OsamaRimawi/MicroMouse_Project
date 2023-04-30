@@ -5,7 +5,7 @@ Micromouse is a robotics competition that involves designing and programming sma
 
 In this repository You can Find the Robot Design and the Arduino code .
 
-### Check This link to see a our Presentation for the Project:
+### Check This link to see our Presentation for the Project:
 https://prezi.com/view/hyKIdvXo3BCBEHV8Sqc9/?fbclid=IwAR2BaYD7dohQerff3rryU11YhENLHrJ0h5TOczHQTZU4tyABckXzARMKnl4
 
 ### Micromouse Project! - Google Drive (here are the pictuers of the robot):
